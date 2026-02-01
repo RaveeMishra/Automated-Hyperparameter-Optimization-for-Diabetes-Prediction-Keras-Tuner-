@@ -1,0 +1,4 @@
+# Automated-Hyperparameter-Optimization-for-Diabetes-Prediction-Keras-Tuner-
+This repository presents a machine learning pipeline for diabetes classification based on the Pima Indians Diabetes Dataset. An Artificial Neural Network (ANN) is developed using TensorFlow/Keras, and hyperparameter optimization is performed using Keras Tuner to automatically search for the optimal network architecture and training parameters.
+The project explores key hyperparameters such as the number of hidden layers, number of neurons per layer, activation functions, learning rate, and batch size. Model performance is evaluated using standard classification metrics, demonstrating the effectiveness of hyperparameter tuning in improving generalization and accuracy.
+This work highlights the practical application of automated model optimization techniques in healthcare-related predictive modeling
